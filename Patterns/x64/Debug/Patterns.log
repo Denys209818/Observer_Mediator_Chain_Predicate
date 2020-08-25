@@ -1,0 +1,3 @@
+﻿  Human.cpp
+C:\Users\Denis\source\repos\Patterns\Patterns\Human.cpp(64,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Patterns.vcxproj -> C:\Users\Denis\source\repos\Patterns\x64\Debug\Patterns.exe
